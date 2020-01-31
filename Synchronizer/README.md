@@ -1,0 +1,4 @@
+Synchronizer
+-------------------
+
+This project aimes to synchronize between two different folders. These folders are chosen as being a source folder and a destination folder. The end user has the choice either to make an instant synchronization or a 1h, 4h, or 24h of continious synchronization. The source folder remains intact; however, the synchronized files are copied in the desination folder under a folder named after the date synchronization. This means that only the last synchronization is kept by the end of the day. Finally, this was the request specification I got from a friend of mine, and every one is welcome to exploit it improve it and use it for their own "non malicious" purposes.
